@@ -72,16 +72,10 @@ The assignment successfully demonstrated:
 ---
 
 # Repository Contents
-
-```
-├── README.md
-├── Week5_Assignment.ipynb
 ├── celebal_assignment_week5.pdf
 └── Sample - Superstore.csv
-```
 
----
 
-## Conclusion
+#Conclusion
 
 This assignment provided practical experience with Apache Spark DataFrames, including data cleaning, filtering, aggregation, schema modification, and pipeline creation. Spark's distributed in-memory architecture makes it a powerful framework for large-scale data analytics.
